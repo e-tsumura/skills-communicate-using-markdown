@@ -29,3 +29,10 @@ string text = "It is cloudy Today."
 int number = 12345;
 decimal money = 10000m;
 ```
+
+### Practice : Step4 Make a task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
